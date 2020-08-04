@@ -8,3 +8,4 @@ using simple javascript methods like
 5)And <a href="https://firebase.google.com/">Firebase</a> which is backend-as-a-service that provides powerful features for building apps. Firebase has three core services: a realtime database, user authentication and hosting. With the Firebase , you can use these services to create apps without writing any server code. and so much more 
   
   <h1>Screenshot of the app</h1>
+<img src="https://github.com/keniiy/simple_javascript_chatapp/blob/master/Simple_chatapp_project/screnshot1.png">
